@@ -1,5 +1,13 @@
 # 💫 About Me:
 
+<div align="center">
+  <a href="https://open.spotify.com/user/karbu pe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=karbu%20pe&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+
 
 
 <br>- 🔭 Currently working on **web development projects** <br>- 🌱 Learning **Dart and Flutter to become a great mobile developer** <br>- 👯 Open to collaborate on **open-source projects** <br>- 💬 Ask me about **web development, databases, or API integration** <br>- 📫 Reach me at **faizashary19@gmail.com** <br>- ⚡ Fun fact: I debug faster with coffee ☕ <br>
