@@ -1,10 +1,5 @@
 # 💫 About Me:
 
-<div align="center">
-  <a href="https://open.spotify.com/user/karbu pe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=karbu%20pe&count=10&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 
 
