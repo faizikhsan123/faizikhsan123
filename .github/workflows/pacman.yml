@@ -1,24 +1,28 @@
-name: Pacman README
+name: Pac-Man Animation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # update otomatis tiap 6 jam
-  workflow_dispatch:       # bisa dijalankan manual
+    - cron: '0 * * * *' # jalan tiap jam
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Download Pac-Man SVG
-        run: |
-          curl https://raw.githubusercontent.com/simonw/pacman-readme/main/pacman.svg > pacman.svg
-      - name: Commit changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add pacman.svg
-          git commit -m "update pacman" || echo "No changes to commit"
-          git push
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-add pacman github action
+      - name: Generate Pac-Man SVG
+        run: |
+          mkdir -p output
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+          <text x="10" y="30" font-size="24">🟡 Pac-Man</text>
+          </svg>' > output/pacman.svg
+
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/pacman.svg
+          git commit -m "Update Pac-Man SVG"
+          git push origin main
