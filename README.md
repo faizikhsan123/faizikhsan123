@@ -25,9 +25,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=faizikhsan123&icon=0&color=8)](https://visitcount.itsvg.in)
 
-
-
-###
-<img src="https://raw.githubusercontent.com/faizikhsan123/faizikhsan123/output/snake.svg" alt="Snake animation" />
-
-###
