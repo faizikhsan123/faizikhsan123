@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-<br>- 🔭 Currently working on **web development projects** <br>- 🌱 Learning **Dart and Flutter to become a great mobile developer** <br>- 👯 Open to collaborate on **open-source projects** <br>- 💬 Ask me about **web development, databases, or API integration** <br>- 📫 Reach me at **faizashary19@gmail.com** <br>- ⚡ Fun fact: I debug faster with coffee ☕ <br>
+<br>- 🔭 Currently working on **web development projects** and **Mobile Developer** <br> <br>- 👯 Open to collaborate on **open-source projects** <br>- 💬 Ask me about **web development, Mobile, or API integration** <br>- 📫 Reach me at **faizashary19@gmail.com** <br>- ⚡ Fun fact: I debug faster with coffee ☕ <br>
 
 ## 🌐 Socials:
 
