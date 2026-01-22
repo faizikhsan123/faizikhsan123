@@ -20,11 +20,4 @@ A passionate **Web Developer & Mobile Developer** 🚀
 ---
 
 
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=faizashary&color=blueviolet&style=flat)
-
----
-
 ⭐ *Don't forget to star my repositories if you find them useful!*  
