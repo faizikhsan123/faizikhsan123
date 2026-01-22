@@ -20,18 +20,6 @@ A passionate **Web Developer & Mobile Developer** 🚀
 ---
 
 
-## 📊 GitHub Stats
-
-![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizashary&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=faizashary&theme=tokyonight)
-
----
-
 
 ## 👀 Profile Views
 
