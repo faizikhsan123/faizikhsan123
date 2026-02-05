@@ -8,7 +8,7 @@
 
   <br>
 
-  <!-- GitHub Streak (FIXED & STABLE) -->
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=faizikhsan123&theme=dracula&hide_border=true" height="150" />
 
   <br>
@@ -30,9 +30,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
   <img width="12" />
