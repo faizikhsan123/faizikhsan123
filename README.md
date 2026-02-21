@@ -3,19 +3,11 @@
 <br clear="both">
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=faizikhsan123&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
-
-  <br>
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=faizikhsan123&theme=dracula&hide_border=true" height="150" />
 
   <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizikhsan123&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
-</div>
 
 ---
 
