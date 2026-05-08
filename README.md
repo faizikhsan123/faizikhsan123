@@ -16,24 +16,37 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" />
   <img width="12" />
+
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" />
 </div>
 
